@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Aviyukt Heights",
+    "location": "Near Bailey Road, Patna",
+    "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1600&q=60",
+    "logo": "/logo.png",
+    "detailsUrl": "#"
+  },
+  {
+    "id": 2,
+    "name": "Aviyukt Crest",
+    "location": "Kankarbagh Main Road, Patna",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1600&q=60",
+    "logo": "/logo.png",
+    "detailsUrl": "#"
+  },
+  {
+    "id": 3,
+    "name": "Aviyukt Residency",
+    "location": "Rajendra Nagar, Patna",
+    "image": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?auto=format&fit=crop&w=1600&q=60",
+    "logo": "/logo.png",
+    "detailsUrl": "#"
+  },
+  {
+    "id": 4,
+    "name": "Aviyukt Square",
+    "location": "Boring Road, Patna",
+    "image": "https://picsum.photos/id/1018/1600/900",
+    "logo": "/logo.png",
+    "detailsUrl": "#"
+  }
+]
+

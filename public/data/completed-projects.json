@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Aviyukt Residency",
+    "location": "Rajendra Nagar, Patna",
+    "image": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?auto=format&fit=crop&w=1600&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Aviyukt Greens",
+    "location": "Bailey Road, Patna",
+    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1600&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Aviyukt Plaza",
+    "location": "Boring Road, Patna",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Aviyukt Enclave",
+    "location": "Kankarbagh, Patna",
+    "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1600&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Aviyukt Heights",
+    "location": "Fraser Road, Patna",
+    "image": "https://images.unsplash.com/photo-1472224371017-08207f84aaae?auto=format&fit=crop&w=1600&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Aviyukt Square",
+    "location": "Ashok Rajpath, Patna",
+    "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1600&q=60"
+  }
+]
+
