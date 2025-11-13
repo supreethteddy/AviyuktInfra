@@ -190,12 +190,6 @@ const Footer = () => {
             <p className="text-gray-400 text-sm hover:text-white transition-colors duration-300">
               Copyright © 2024. <span className="text-brand-400 hover:text-brand-300 transition-colors duration-300">Aviyukt Infra</span> All rights reserved.
             </p>
-            <a 
-              href="https://readdy.ai/?origin=logo" 
-              className="text-gray-400 hover:text-white text-sm transition-all duration-300 mt-4 md:mt-0 cursor-pointer hover:translate-x-1"
-            >
-              Website Builder
-            </a>
           </div>
         </div>
       </div>
